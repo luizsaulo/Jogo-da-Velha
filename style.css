@@ -48,9 +48,6 @@ h1 {
     border-bottom: none;
 }
 
-#block-7, #block-8, #block-9 {
-    border-left: none;
-}
 
 #block-3, #block-6, #block-9 {
     border-right: none;
@@ -77,9 +74,9 @@ h1 {
 
 /* Classe de Esconder */
 
-/* .hide {
+.hide {
     display: none !important;;
-} */
+}
 
 #scoreboard-container {
     font-weight: bold;
@@ -122,5 +119,4 @@ h1 {
     background-color: #000;
     color: #fff;
     padding: 20px;
-    display: none;
 }
